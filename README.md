@@ -214,4 +214,4 @@ src/DeliveryQuote.App/   application source and Data/ sample files
 tests/DeliveryQuote.Tests/   xUnit tests
 ```
 
-The ZIP uploaded to Moodle must match the committed version of this repository and exclude the `bin` and `obj` folders.
+
