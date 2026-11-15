@@ -1,0 +1,8 @@
+[
+  { "id": "P001", "name": "Office Chair",  "category": "Furniture",   "unitPriceCents": 8500,  "stock": 20 },
+  { "id": "P002", "name": "Standing Desk", "category": "Furniture",   "unitPriceCents": 24900, "stock": 6 },
+  { "id": "P003", "name": "Laptop Stand",  "category": "Accessories", "unitPriceCents": 3200,  "stock": 50 },
+  { "id": "P004", "name": "USB-C Cable",   "category": "Accessories", "unitPriceCents": 900,   "stock": 200 },
+  { "id": "P005", "name": "Monitor 27in",  "category": "Electronics", "unitPriceCents": 18900, "stock": 4 },
+  { "id": "P006", "name": "Label Printer", "category": "Electronics", "unitPriceCents": 7400,  "stock": 0 }
+]
