@@ -1,0 +1,5 @@
+Electronics  quotes=2  total=1125.00
+Furniture    quotes=2  total=931.00
+Accessories  quotes=2  total=273.00
+R006  Standing Desk  754.00
+R004  Monitor 27in   692.00
